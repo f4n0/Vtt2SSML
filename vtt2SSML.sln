@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vtt2SSML", "vtt2SSML\vtt2SSML.csproj", "{283E80B8-92DA-4089-9231-94C3CEFA8E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{283E80B8-92DA-4089-9231-94C3CEFA8E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283E80B8-92DA-4089-9231-94C3CEFA8E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283E80B8-92DA-4089-9231-94C3CEFA8E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283E80B8-92DA-4089-9231-94C3CEFA8E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6658EC4-19AD-482A-A68F-FCD321F89558}
+	EndGlobalSection
+EndGlobal
